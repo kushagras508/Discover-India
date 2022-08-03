@@ -8,8 +8,9 @@
 
 #### -> Technology Used : HTML , CSS, JavaScript , Tries .
 
-#### -> Live Url : 
+#### -> Live Url : https://kushagras508.github.io/Discover-India/
 
 ### Landing Page View
 
-![Tourism]
+![discover_india](https://user-images.githubusercontent.com/90048289/182690585-23cfe777-9f2f-4bb4-9bc4-1485d953dafb.png)
+
